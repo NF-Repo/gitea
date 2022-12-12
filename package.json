@@ -9,7 +9,7 @@
     "@babel/plugin-transform-runtime": "7.13.10",
     "@babel/preset-env": "7.13.10",
     "@babel/runtime": "7.13.10",
-    "@claviska/jquery-minicolors": "2.3.5",
+    "@claviska/jquery-minicolors": "2.3.6",
     "@primer/octicons": "12.1.0",
     "add-asset-webpack-plugin": "2.0.1",
     "babel-loader": "8.2.2",
